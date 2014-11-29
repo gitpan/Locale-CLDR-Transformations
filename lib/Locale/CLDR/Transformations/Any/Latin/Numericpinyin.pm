@@ -1,6 +1,6 @@
 package Locale::CLDR::Transformations::Any::Latin::Numericpinyin;
 # This file auto generated from Data\common\transforms\Latin-NumericPinyin.xml
-#	on Mon 24 Nov  7:59:07 am GMT
+#	on Sat 29 Nov  1:20:35 pm GMT
 # XML file generated 2014-08-12 23:23:18 -0500 (Tue, 12 Aug 2014)
 
 use version;

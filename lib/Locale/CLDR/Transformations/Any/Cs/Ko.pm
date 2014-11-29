@@ -1,6 +1,6 @@
 package Locale::CLDR::Transformations::Any::Cs::Ko;
 # This file auto generated from Data\common\transforms\cs-ko.xml
-#	on Mon 24 Nov  7:59:14 am GMT
+#	on Sat 29 Nov  1:20:42 pm GMT
 # XML file generated 2013-02-24 21:06:02 -0600 (Sun, 24 Feb 2013)
 
 use version;

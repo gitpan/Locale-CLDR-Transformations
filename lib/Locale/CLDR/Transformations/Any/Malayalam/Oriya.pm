@@ -1,6 +1,6 @@
 package Locale::CLDR::Transformations::Any::Malayalam::Oriya;
 # This file auto generated from Data\common\transforms\Malayalam-Oriya.xml
-#	on Mon 24 Nov  7:59:07 am GMT
+#	on Sat 29 Nov  1:20:36 pm GMT
 # XML file generated 2013-02-24 21:06:02 -0600 (Sun, 24 Feb 2013)
 
 use version;

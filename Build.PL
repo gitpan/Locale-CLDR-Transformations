@@ -23,7 +23,7 @@ my $builder = Module::Build->new(
     add_to_cleanup      => [ 'Locale-CLDR-Transformations-*' ],
 	configure_requires => { 'Module::Build' => '0.40' },
     create_makefile_pl => 'traditional',
-	release_status => 'unstable',
+	release_status => 'stable',
 	dist_abstract => 'Locale::CLDR - Data Package Transformations',
 );
 

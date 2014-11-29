@@ -1,6 +1,6 @@
 package Locale::CLDR::Transformations::Bgn::Amharic::Latin;
 # This file auto generated from Data\common\transforms\Amharic-Latin-BGN.xml
-#	on Mon 24 Nov  7:58:56 am GMT
+#	on Sat 29 Nov  1:20:24 pm GMT
 # XML file generated 2013-08-20 21:47:18 -0500 (Tue, 20 Aug 2013)
 
 use version;

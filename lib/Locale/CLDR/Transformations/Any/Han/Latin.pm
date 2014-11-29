@@ -1,6 +1,6 @@
 package Locale::CLDR::Transformations::Any::Han::Latin;
 # This file auto generated from Data\common\transforms\Han-Latin.xml
-#	on Mon 24 Nov  7:59:00 am GMT
+#	on Sat 29 Nov  1:20:28 pm GMT
 # XML file generated 2014-03-05 21:49:50 -0600 (Wed, 05 Mar 2014)
 
 use version;

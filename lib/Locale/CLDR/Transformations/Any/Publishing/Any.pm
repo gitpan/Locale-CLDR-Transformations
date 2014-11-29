@@ -1,6 +1,6 @@
 package Locale::CLDR::Transformations::Any::Publishing::Any;
 # This file auto generated from Data\common\transforms\Any-Publishing.xml
-#	on Mon 24 Nov  7:58:56 am GMT
+#	on Sat 29 Nov  1:20:24 pm GMT
 # XML file generated 2013-02-24 21:06:02 -0600 (Sun, 24 Feb 2013)
 
 use version;

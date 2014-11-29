@@ -1,6 +1,6 @@
 package Locale::CLDR::Transformations::Any::Tlh::Tlh_fonipa;
 # This file auto generated from Data\common\transforms\tlh-tlh_FONIPA.xml
-#	on Mon 24 Nov  7:59:17 am GMT
+#	on Sat 29 Nov  1:20:45 pm GMT
 # XML file generated 2014-02-27 00:58:10 -0600 (Thu, 27 Feb 2014)
 
 use version;

@@ -3,20 +3,20 @@ require 5.010000;
 use ExtUtils::MakeMaker;
 WriteMakefile
 (
-  'PREREQ_PM' => {
-                   'Test::More' => '0.98',
-                   'Test::Exception' => 0,
-                   'Locale::CLDR' => '0.026002',
-                   'MooseX::ClassAttribute' => '0.26',
-                   'version' => '0.95',
-                   'DateTime' => '0.72',
-                   'ok' => 0,
-                   'Moose' => '2.0401'
-                 },
-  'PL_FILES' => {},
+  'NAME' => 'Locale::CLDR::Transformations',
   'EXE_FILES' => [],
-  'VERSION_FROM' => 'lib/Locale/CLDR/Transformations/Any/Any/Accents.pm',
+  'PL_FILES' => {},
   'INSTALLDIRS' => 'site',
-  'NAME' => 'Locale::CLDR::Transformations'
+  'VERSION_FROM' => 'lib/Locale/CLDR/Transformations/Any/Any/Accents.pm',
+  'PREREQ_PM' => {
+                   'ok' => 0,
+                   'Moose' => '2.0401',
+                   'DateTime' => '0.72',
+                   'MooseX::ClassAttribute' => '0.26',
+                   'Locale::CLDR' => '0.026002',
+                   'version' => '0.95',
+                   'Test::Exception' => 0,
+                   'Test::More' => '0.98'
+                 }
 )
 ;
