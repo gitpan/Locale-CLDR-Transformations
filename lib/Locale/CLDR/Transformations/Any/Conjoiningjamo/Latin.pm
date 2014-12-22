@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Conjoiningjamo::Latin;
 # This file auto generated from Data\common\transforms\Latin-ConjoiningJamo.xml
-#	on Sat 29 Nov  1:20:34 pm GMT
+#	on Fri 19 Dec 12:44:36 am GMT
 # XML file generated 2013-02-24 21:06:02 -0600 (Sun, 24 Feb 2013)
 
 use version;
 
-our $VERSION = version->declare('v0.26.2');
+our $VERSION = version->declare('v0.26.4');
 
 use v5.10;
 use mro 'c3';

@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Yo::Yo_bj;
 # This file auto generated from Data\common\transforms\yo-yo_BJ.xml
-#	on Sat 29 Nov  1:20:46 pm GMT
+#	on Fri 19 Dec 12:44:48 am GMT
 # XML file generated 2014-03-03 17:14:41 -0600 (Mon, 03 Mar 2014)
 
 use version;
 
-our $VERSION = version->declare('v0.26.2');
+our $VERSION = version->declare('v0.26.4');
 
 use v5.10;
 use mro 'c3';

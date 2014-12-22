@@ -29,7 +29,7 @@
       "runtime" : {
          "requires" : {
             "DateTime" : "0.72",
-            "Locale::CLDR" : "0.026002",
+            "Locale::CLDR" : "0.026004",
             "Moose" : "2.0401",
             "MooseX::ClassAttribute" : "0.26",
             "perl" : "v5.10.0",
@@ -40,995 +40,995 @@
    "provides" : {
       "Locale::CLDR::Transformations::Any::Accents::Any" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Accents/Any.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Any::Accents" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Any/Accents.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Any::Publishing" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Any/Publishing.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Arabic::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Arabic/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Armenian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Armenian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ascii::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ascii/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Az::Lower" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Az/Lower.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Az::Title" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Az/Title.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Az::Upper" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Az/Upper.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bengali::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bengali/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Bopomofo::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Bopomofo/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Canadianaboriginal::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Canadianaboriginal/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ch::Ch_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ch/Ch_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Conjoiningjamo::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Conjoiningjamo/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Cs::Cs_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Cs/Cs_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Cs::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Cs/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Cs::Ko" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Cs/Ko.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Cs_fonipa::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Cs_fonipa/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Cs_fonipa::Ko" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Cs_fonipa/Ko.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Cyrillic::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Cyrillic/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Devanagari::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Devanagari/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Dsb::Dsb_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Dsb/Dsb_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::El::Lower" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/El/Lower.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::El::Title" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/El/Title.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::El::Upper" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/El/Upper.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es::Am" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es/Am.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es::Es_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es/Es_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es::Zh" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es/Zh.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es_419::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es_419/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es_419::Zh" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es_419/Zh.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es_fonipa::Am" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es_fonipa/Am.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es_fonipa::Es_419_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es_fonipa/Es_419_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es_fonipa::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es_fonipa/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Es_fonipa::Zh" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Es_fonipa/Zh.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ethiopic::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ethiopic/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Fullwidth::Halfwidth" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Fullwidth/Halfwidth.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Georgian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Georgian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Greek::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Greek/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gujarati::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gujarati/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Gurmukhi::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Gurmukhi/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Halfwidth::Fullwidth" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Halfwidth/Fullwidth.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Han::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Han/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Han::Spacedhan" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Han/Spacedhan.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Hangul::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Hangul/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Hebrew::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Hebrew/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Hiragana::Katakana" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Hiragana/Katakana.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Hiragana::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Hiragana/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Interindic::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Interindic/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ipa::Xsampa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ipa/Xsampa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::It::Am" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/It/Am.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::It::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/It/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ja_latn::Ko" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ja_latn/Ko.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ja_latn::Ru" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ja_latn/Ru.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Jamo::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Jamo/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Kannada::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Kannada/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Katakana::Hiragana" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Katakana/Hiragana.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Katakana::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Katakana/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::La::La_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/La/La_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Arabic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Arabic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Armenian" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Armenian.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Ascii" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Ascii.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Bopomofo" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Bopomofo.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Canadianaboriginal" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Canadianaboriginal.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Conjoiningjamo" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Conjoiningjamo.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Cyrillic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Cyrillic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Ethiopic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Ethiopic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Georgian" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Georgian.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Greek" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Greek.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Hangul" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Hangul.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Hebrew" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Hebrew.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Hiragana" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Hiragana.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Jamo" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Jamo.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Katakana" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Katakana.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Numericpinyin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Numericpinyin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Syriac" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Syriac.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Thaana" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Thaana.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Thai" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Thai.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Latin::Thailogical" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Latin/Thailogical.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Lt::Lower" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Lt/Lower.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Lt::Title" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Lt/Title.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Lt::Upper" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Lt/Upper.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Malayalam::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Malayalam/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Nl::Title" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Nl/Title.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Numericpinyin::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Numericpinyin/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Numericpinyin::Pinyin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Numericpinyin/Pinyin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Oriya::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Oriya/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Pinyin::Numericpinyin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Pinyin/Numericpinyin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Pl::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Pl/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Pl::Pl_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Pl/Pl_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Pl_fonipa::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Pl_fonipa/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Publishing::Any" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Publishing/Any.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ro::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ro/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ro::Ro_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ro/Ro_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ro_fonipa::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ro_fonipa/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ru::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ru/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Ru::Zh" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Ru/Zh.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Simplified::Traditional" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Simplified/Traditional.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Sk::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Sk/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Sk::Sk_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Sk/Sk_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Sk_fonipa::Ja" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Sk_fonipa/Ja.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Spacedhan::Han" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Spacedhan/Han.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Syriac::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Syriac/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tamil::Telugu" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tamil/Telugu.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Bengali" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Bengali.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Devanagari" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Devanagari.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Gujarati" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Gujarati.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Gurmukhi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Gurmukhi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Interindic" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Interindic.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Kannada" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Kannada.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Malayalam" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Malayalam.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Oriya" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Oriya.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Telugu::Tamil" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Telugu/Tamil.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Thaana::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Thaana/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Thai::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Thai/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Thai::Thailogical" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Thai/Thailogical.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Thai::Thaisemi" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Thai/Thaisemi.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Thailogical::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Thailogical/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Thailogical::Thai" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Thailogical/Thai.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Thaisemi::Thai" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Thaisemi/Thai.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tlh::Tlh_fonipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tlh/Tlh_fonipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tr::Lower" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tr/Lower.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tr::Title" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tr/Title.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Tr::Upper" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Tr/Upper.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Traditional::Simplified" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Traditional/Simplified.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Uz_cyrl::Uz_latn" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Uz_cyrl/Uz_latn.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Uz_latn::Uz_cyrl" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Uz_latn/Uz_cyrl.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Xsampa::Ipa" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Xsampa/Ipa.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Yo::Yo_bj" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Yo/Yo_bj.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Any::Zh_latn_pinyin::Ru" : {
          "file" : "lib/Locale/CLDR/Transformations/Any/Zh_latn_pinyin/Ru.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Amharic::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Amharic/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Arabic::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Arabic/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Armenian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Armenian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Azerbaijani::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Azerbaijani/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Belarusian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Belarusian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Bulgarian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Bulgarian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Georgian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Georgian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Greek::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Greek/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Hebrew::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Hebrew/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Katakana::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Katakana/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Kazakh::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Kazakh/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Kirghiz::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Kirghiz/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Korean::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Korean/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Macedonian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Macedonian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Maldivian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Maldivian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Mongolian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Mongolian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Pashto::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Pashto/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Persian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Persian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Russian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Russian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Serbian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Serbian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Turkmen::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Turkmen/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Ukrainian::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Ukrainian/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Bgn::Uzbek::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Bgn/Uzbek/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Names::Han::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Names/Han/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Ungegn::Greek::Latin" : {
          "file" : "lib/Locale/CLDR/Transformations/Ungegn/Greek/Latin.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       },
       "Locale::CLDR::Transformations::Ungegn::Latin::Greek" : {
          "file" : "lib/Locale/CLDR/Transformations/Ungegn/Latin/Greek.pm",
-         "version" : "v0.26.2"
+         "version" : "v0.26.4"
       }
    },
    "release_status" : "stable",
@@ -1037,5 +1037,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "v0.26.2"
+   "version" : "v0.26.4"
 }

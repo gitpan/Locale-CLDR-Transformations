@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Ch::Ch_fonipa;
 # This file auto generated from Data\common\transforms\ch-ch_FONIPA.xml
-#	on Sat 29 Nov  1:20:42 pm GMT
+#	on Fri 19 Dec 12:44:44 am GMT
 # XML file generated 2014-02-24 10:07:33 -0600 (Mon, 24 Feb 2014)
 
 use version;
 
-our $VERSION = version->declare('v0.26.2');
+our $VERSION = version->declare('v0.26.4');
 
 use v5.10;
 use mro 'c3';

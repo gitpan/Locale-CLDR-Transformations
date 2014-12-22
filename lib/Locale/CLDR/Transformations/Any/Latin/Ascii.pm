@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Latin::Ascii;
 # This file auto generated from Data\common\transforms\Latin-ASCII.xml
-#	on Sat 29 Nov  1:20:32 pm GMT
+#	on Fri 19 Dec 12:44:34 am GMT
 # XML file generated 2013-08-05 13:50:51 -0500 (Mon, 05 Aug 2013)
 
 use version;
 
-our $VERSION = version->declare('v0.26.2');
+our $VERSION = version->declare('v0.26.4');
 
 use v5.10;
 use mro 'c3';

@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Az::Upper;
 # This file auto generated from Data\common\transforms\az-Upper.xml
-#	on Sat 29 Nov  1:20:42 pm GMT
+#	on Fri 19 Dec 12:44:44 am GMT
 # XML file generated 2013-03-01 08:26:02 -0600 (Fri, 01 Mar 2013)
 
 use version;
 
-our $VERSION = version->declare('v0.26.2');
+our $VERSION = version->declare('v0.26.4');
 
 use v5.10;
 use mro 'c3';
