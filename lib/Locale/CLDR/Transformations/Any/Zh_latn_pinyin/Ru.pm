@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Zh_latn_pinyin::Ru;
 # This file auto generated from Data\common\transforms\zh_Latn_PINYIN-ru.xml
-#	on Fri 19 Dec 12:44:48 am GMT
+#	on Tue 30 Dec  8:52:01 pm GMT
 # XML file generated 2013-02-24 21:06:02 -0600 (Sun, 24 Feb 2013)
 
 use version;
 
-our $VERSION = version->declare('v0.26.4');
+our $VERSION = version->declare('v0.26.7');
 
 use v5.10;
 use mro 'c3';
