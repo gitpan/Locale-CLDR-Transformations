@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Lt::Title;
 # This file auto generated from Data\common\transforms\lt-Title.xml
-#	on Tue 30 Dec  8:51:59 pm GMT
+#	on Tue  6 Jan  8:36:49 am GMT
 # XML file generated 2014-08-25 21:17:25 -0500 (Mon, 25 Aug 2014)
 
 use version;
 
-our $VERSION = version->declare('v0.26.7');
+our $VERSION = version->declare('v0.26.8');
 
 use v5.10;
 use mro 'c3';

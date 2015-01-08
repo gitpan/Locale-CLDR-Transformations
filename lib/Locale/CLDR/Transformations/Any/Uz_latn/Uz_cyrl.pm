@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Uz_latn::Uz_cyrl;
 # This file auto generated from Data\common\transforms\uz_Cyrl-uz_Latn.xml
-#	on Tue 30 Dec  8:52:00 pm GMT
+#	on Tue  6 Jan  8:36:53 am GMT
 # XML file generated 2013-08-01 22:51:25 -0500 (Thu, 01 Aug 2013)
 
 use version;
 
-our $VERSION = version->declare('v0.26.7');
+our $VERSION = version->declare('v0.26.8');
 
 use v5.10;
 use mro 'c3';

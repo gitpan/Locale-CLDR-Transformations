@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Malayalam::Kannada;
 # This file auto generated from Data\common\transforms\Malayalam-Kannada.xml
-#	on Tue 30 Dec  8:51:50 pm GMT
+#	on Tue  6 Jan  8:36:35 am GMT
 # XML file generated 2013-02-24 21:06:02 -0600 (Sun, 24 Feb 2013)
 
 use version;
 
-our $VERSION = version->declare('v0.26.7');
+our $VERSION = version->declare('v0.26.8');
 
 use v5.10;
 use mro 'c3';

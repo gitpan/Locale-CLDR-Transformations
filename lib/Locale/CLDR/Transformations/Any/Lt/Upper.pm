@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Lt::Upper;
 # This file auto generated from Data\common\transforms\lt-Upper.xml
-#	on Tue 30 Dec  8:51:59 pm GMT
+#	on Tue  6 Jan  8:36:49 am GMT
 # XML file generated 2013-03-01 08:26:02 -0600 (Fri, 01 Mar 2013)
 
 use version;
 
-our $VERSION = version->declare('v0.26.7');
+our $VERSION = version->declare('v0.26.8');
 
 use v5.10;
 use mro 'c3';

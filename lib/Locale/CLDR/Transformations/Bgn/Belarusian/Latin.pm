@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Bgn::Belarusian::Latin;
 # This file auto generated from Data\common\transforms\Belarusian-Latin-BGN.xml
-#	on Tue 30 Dec  8:51:40 pm GMT
+#	on Tue  6 Jan  8:36:16 am GMT
 # XML file generated 2013-02-24 21:06:02 -0600 (Sun, 24 Feb 2013)
 
 use version;
 
-our $VERSION = version->declare('v0.26.7');
+our $VERSION = version->declare('v0.26.8');
 
 use v5.10;
 use mro 'c3';

@@ -1,11 +1,11 @@
 package Locale::CLDR::Transformations::Any::Bopomofo::Latin;
 # This file auto generated from Data\common\transforms\Latin-Bopomofo.xml
-#	on Tue 30 Dec  8:51:48 pm GMT
+#	on Tue  6 Jan  8:36:31 am GMT
 # XML file generated 2014-08-12 23:23:18 -0500 (Tue, 12 Aug 2014)
 
 use version;
 
-our $VERSION = version->declare('v0.26.7');
+our $VERSION = version->declare('v0.26.8');
 
 use v5.10;
 use mro 'c3';
